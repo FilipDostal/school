@@ -82,6 +82,7 @@ public class Razeni_cisel {
                 }
             }
         }
+        System.out.println("Konec");
 
     }
 
